@@ -17,3 +17,10 @@ What will be predicted score if a student study for 9.25 hrs in a day?
 # Task 3 - To Explore Unsupervised Machine Learning
 From the given ‘Iris’ dataset,we will predict the optimum number of clusters and represent it visually.
 Data can be found at https://bit.ly/3kXTdox
+
+# Task 4 - Prediction Using Decision Tree Algorithm
+For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it
+graphically.
+The purpose is if we feed any new data to this classifier, it would be able to
+predict the right class accordingly.
+Data can be found at https://bit.ly/3kXTdox
